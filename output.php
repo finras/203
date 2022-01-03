@@ -52,7 +52,7 @@ margin: 0px auto;
 <table style="border:3px #cccccc solid;" cellpadding="10" border='4' table width="800" >
 <tr>
 	<td>學號</td>
-	<td>班級</td>
+	<td>班級</td>//aaa
 	<td>姓名</td>
 	<td>周次</td>
 	<td>節次</td>
